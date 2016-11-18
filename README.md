@@ -1,6 +1,7 @@
 # Cube
 
-[Live link to be inserted later]
+[Live link][link]
+[link]: https://victoraw.github.io/
 
 Cube is an interactive front-end Javascript project demonstrating WebGL through an interactive enviornment.
 
